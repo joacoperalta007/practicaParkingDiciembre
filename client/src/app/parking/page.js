@@ -1,7 +1,3 @@
-//LINEA DE PRUEBA GIT
-
-
-
 "use client"
 
 import { useSearchParams } from "next/navigation"
